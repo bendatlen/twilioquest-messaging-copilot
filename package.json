@@ -1,0 +1,14 @@
+{
+  "name": "messagingcopilot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twilioMessagingCopilot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben.datlen@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^3.15.1"
+  }
+}
